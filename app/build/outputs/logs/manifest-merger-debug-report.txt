@@ -1,0 +1,195 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Dooley\AndroidStudioProjects\Folio.dooley1001\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Dooley\AndroidStudioProjects\Folio.dooley1001\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Dooley\AndroidStudioProjects\Folio.dooley1001\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Dooley\AndroidStudioProjects\Folio.dooley1001\app\src\main\AndroidManifest.xml:2:1-30:12
+MERGED from [com.jaredrummler:android-device-names:1.1.6] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\android-device-names-1.1.6.aar\cb3b42304e40f9704bf129ed5bec45d4\AndroidManifest.xml:2:1-10:12
+MERGED from [com.github.jrvansuita:MaterialAbout:0.2.3] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\MaterialAbout-0.2.3.aar\6238cd179640aca6cd65ea716ea37f03\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:customtabs:27.1.0] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\customtabs-27.1.0.aar\7d03ca5001ab369c781f2f226501a5bb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.nex3z:toggle-button-group:1.1.2] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\toggle-button-group-1.1.2.aar\a493a6f978cc942bce7ff846e286e3be\AndroidManifest.xml:2:1-13:12
+MERGED from [com.github.ivbaranov:materialfavoritebutton:0.1.4] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\materialfavoritebutton-0.1.4.aar\c98ea7facdd0d0496cd18bb629367e78\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:27.1.0] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\a4e608aa8f0c47448b133618d883b1cb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.yqritc:recyclerview-flexibledivider:1.2.9] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\recyclerview-flexibledivider-1.2.9.aar\7bee1757817d6ba7fd7adf3562a9c844\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\9fb1693f1cb619ef811442cf67ce7046\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.fcopardo:easyrest:v1.4.2] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\easyrest-v1.4.2.aar\eae32e5cc88f9dcef190a5e8d1b871c5\AndroidManifest.xml:2:1-6:12
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\core-0.9.6.0.aar\2fc7e48401a8f792ab4bf50c83b8b739\AndroidManifest.xml:2:1-15:12
+MERGED from [com.mikepenz:aboutlibraries:6.0.6] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\aboutlibraries-6.0.6.aar\c2fae67021169c94b2b59faaa1bc406e\AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:cardview-v7:27.1.0] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.0.aar\558bff76b407497094dfb5f9bc59a964\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\bae067ceb7f2f85f9aeab92cf86df1fc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.jrvansuita:IconHandler:v2.0.0] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\IconHandler-v2.0.0.aar\e8c9ac115cb2d10a73a7ace2be3172b1\AndroidManifest.xml:2:1-17:12
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\library-1.4.2.aar\a8f1df89a34747380c2032ce3783bf77\AndroidManifest.xml:6:1-16:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\886027a30d37400f4622fd32bc38a1e2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\f03632c4397292eed1532bc0c4939b7b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\8b2a97cfb26aaebf0a8f30560822c72e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\ffdab6b1fd80e85ce6d1eb4b3878c63c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\2d9c30f20b5b50ca7d47a34824c7b5fa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.0] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\bfc887f2567a14dbdb4f47396865eac1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\43cacdbfc138e7a83b1d73ff60c4b415\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\35df8d423bad622650b85ea63c3965ea\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\4a560f8c9106c912039194c9cafc5ff4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\be2ac59373d05d94a01b35a69d9bd0a0\AndroidManifest.xml:17:1-22:12
+MERGED from [io.reactivex:rxandroid:1.0.1] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\rxandroid-1.0.1.aar\03cd8ce66a60fadd3aa8be98d75fe03b\AndroidManifest.xml:15:1-21:12
+MERGED from [com.mikepenz:iconics-core:3.0.2] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\iconics-core-3.0.2.aar\648f52ba156cf2e05ae1c6a7dcb9901d\AndroidManifest.xml:2:1-12:12
+MERGED from [com.mikepenz:fastadapter:3.2.4] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\fastadapter-3.2.4.aar\95efa21bf1d6abed6fbb014bbd7a4fbc\AndroidManifest.xml:2:1-12:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\93a5af320065e288ce40278986234924\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\042096d30d25f8aa7a524412468bd34d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b0c6273878b1b7d81d43b23af47a4a82\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\0d0062ea8f7fe38a6ef90b2e2fcae8df\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Dooley\AndroidStudioProjects\Folio.dooley1001\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Dooley\AndroidStudioProjects\Folio.dooley1001\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Dooley\AndroidStudioProjects\Folio.dooley1001\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from C:\Users\Dooley\AndroidStudioProjects\Folio.dooley1001\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from C:\Users\Dooley\AndroidStudioProjects\Folio.dooley1001\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Dooley\AndroidStudioProjects\Folio.dooley1001\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Dooley\AndroidStudioProjects\Folio.dooley1001\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Dooley\AndroidStudioProjects\Folio.dooley1001\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from C:\Users\Dooley\AndroidStudioProjects\Folio.dooley1001\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Dooley\AndroidStudioProjects\Folio.dooley1001\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Dooley\AndroidStudioProjects\Folio.dooley1001\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from C:\Users\Dooley\AndroidStudioProjects\Folio.dooley1001\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Dooley\AndroidStudioProjects\Folio.dooley1001\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Dooley\AndroidStudioProjects\Folio.dooley1001\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from C:\Users\Dooley\AndroidStudioProjects\Folio.dooley1001\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Dooley\AndroidStudioProjects\Folio.dooley1001\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\Users\Dooley\AndroidStudioProjects\Folio.dooley1001\app\src\main\AndroidManifest.xml:6:22-64
+application
+ADDED from C:\Users\Dooley\AndroidStudioProjects\Folio.dooley1001\app\src\main\AndroidManifest.xml:8:5-29:19
+MERGED from [com.nex3z:toggle-button-group:1.1.2] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\toggle-button-group-1.1.2.aar\a493a6f978cc942bce7ff846e286e3be\AndroidManifest.xml:11:5-20
+MERGED from [com.nex3z:toggle-button-group:1.1.2] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\toggle-button-group-1.1.2.aar\a493a6f978cc942bce7ff846e286e3be\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\9fb1693f1cb619ef811442cf67ce7046\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\9fb1693f1cb619ef811442cf67ce7046\AndroidManifest.xml:9:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\core-0.9.6.0.aar\2fc7e48401a8f792ab4bf50c83b8b739\AndroidManifest.xml:13:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\core-0.9.6.0.aar\2fc7e48401a8f792ab4bf50c83b8b739\AndroidManifest.xml:13:5-20
+MERGED from [com.mikepenz:aboutlibraries:6.0.6] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\aboutlibraries-6.0.6.aar\c2fae67021169c94b2b59faaa1bc406e\AndroidManifest.xml:11:5-13:19
+MERGED from [com.mikepenz:aboutlibraries:6.0.6] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\aboutlibraries-6.0.6.aar\c2fae67021169c94b2b59faaa1bc406e\AndroidManifest.xml:11:5-13:19
+MERGED from [com.github.jrvansuita:IconHandler:v2.0.0] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\IconHandler-v2.0.0.aar\e8c9ac115cb2d10a73a7ace2be3172b1\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.jrvansuita:IconHandler:v2.0.0] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\IconHandler-v2.0.0.aar\e8c9ac115cb2d10a73a7ace2be3172b1\AndroidManifest.xml:11:5-15:19
+	android:supportsRtl
+		ADDED from C:\Users\Dooley\AndroidStudioProjects\Folio.dooley1001\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\Dooley\AndroidStudioProjects\Folio.dooley1001\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\Dooley\AndroidStudioProjects\Folio.dooley1001\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Users\Dooley\AndroidStudioProjects\Folio.dooley1001\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\Dooley\AndroidStudioProjects\Folio.dooley1001\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\Dooley\AndroidStudioProjects\Folio.dooley1001\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.folio.dooley1001.folio.Main.cryptoListTabsActivity
+ADDED from C:\Users\Dooley\AndroidStudioProjects\Folio.dooley1001\app\src\main\AndroidManifest.xml:16:9-25:20
+	android:label
+		ADDED from C:\Users\Dooley\AndroidStudioProjects\Folio.dooley1001\app\src\main\AndroidManifest.xml:18:13-44
+	android:theme
+		ADDED from C:\Users\Dooley\AndroidStudioProjects\Folio.dooley1001\app\src\main\AndroidManifest.xml:20:13-44
+	android:name
+		ADDED from C:\Users\Dooley\AndroidStudioProjects\Folio.dooley1001\app\src\main\AndroidManifest.xml:17:13-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Dooley\AndroidStudioProjects\Folio.dooley1001\app\src\main\AndroidManifest.xml:21:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Dooley\AndroidStudioProjects\Folio.dooley1001\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from C:\Users\Dooley\AndroidStudioProjects\Folio.dooley1001\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Dooley\AndroidStudioProjects\Folio.dooley1001\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\Dooley\AndroidStudioProjects\Folio.dooley1001\app\src\main\AndroidManifest.xml:23:27-74
+activity#com.folio.dooley1001.folio.coinDetails.cryptoDetailsTabbedAct
+ADDED from C:\Users\Dooley\AndroidStudioProjects\Folio.dooley1001\app\src\main\AndroidManifest.xml:26:9-28:20
+	android:parentActivityName
+		ADDED from C:\Users\Dooley\AndroidStudioProjects\Folio.dooley1001\app\src\main\AndroidManifest.xml:27:13-96
+	android:name
+		ADDED from C:\Users\Dooley\AndroidStudioProjects\Folio.dooley1001\app\src\main\AndroidManifest.xml:26:19-95
+uses-sdk
+INJECTED from C:\Users\Dooley\AndroidStudioProjects\Folio.dooley1001\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Dooley\AndroidStudioProjects\Folio.dooley1001\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Dooley\AndroidStudioProjects\Folio.dooley1001\app\src\main\AndroidManifest.xml
+MERGED from [com.jaredrummler:android-device-names:1.1.6] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\android-device-names-1.1.6.aar\cb3b42304e40f9704bf129ed5bec45d4\AndroidManifest.xml:6:5-8:41
+MERGED from [com.jaredrummler:android-device-names:1.1.6] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\android-device-names-1.1.6.aar\cb3b42304e40f9704bf129ed5bec45d4\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.jrvansuita:MaterialAbout:0.2.3] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\MaterialAbout-0.2.3.aar\6238cd179640aca6cd65ea716ea37f03\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.jrvansuita:MaterialAbout:0.2.3] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\MaterialAbout-0.2.3.aar\6238cd179640aca6cd65ea716ea37f03\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:customtabs:27.1.0] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\customtabs-27.1.0.aar\7d03ca5001ab369c781f2f226501a5bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.1.0] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\customtabs-27.1.0.aar\7d03ca5001ab369c781f2f226501a5bb\AndroidManifest.xml:20:5-44
+MERGED from [com.nex3z:toggle-button-group:1.1.2] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\toggle-button-group-1.1.2.aar\a493a6f978cc942bce7ff846e286e3be\AndroidManifest.xml:7:5-9:41
+MERGED from [com.nex3z:toggle-button-group:1.1.2] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\toggle-button-group-1.1.2.aar\a493a6f978cc942bce7ff846e286e3be\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.ivbaranov:materialfavoritebutton:0.1.4] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\materialfavoritebutton-0.1.4.aar\c98ea7facdd0d0496cd18bb629367e78\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.ivbaranov:materialfavoritebutton:0.1.4] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\materialfavoritebutton-0.1.4.aar\c98ea7facdd0d0496cd18bb629367e78\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.1.0] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\a4e608aa8f0c47448b133618d883b1cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.0] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\a4e608aa8f0c47448b133618d883b1cb\AndroidManifest.xml:20:5-44
+MERGED from [com.yqritc:recyclerview-flexibledivider:1.2.9] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\recyclerview-flexibledivider-1.2.9.aar\7bee1757817d6ba7fd7adf3562a9c844\AndroidManifest.xml:8:5-10:41
+MERGED from [com.yqritc:recyclerview-flexibledivider:1.2.9] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\recyclerview-flexibledivider-1.2.9.aar\7bee1757817d6ba7fd7adf3562a9c844\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\9fb1693f1cb619ef811442cf67ce7046\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\9fb1693f1cb619ef811442cf67ce7046\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.fcopardo:easyrest:v1.4.2] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\easyrest-v1.4.2.aar\eae32e5cc88f9dcef190a5e8d1b871c5\AndroidManifest.xml:4:5-72
+MERGED from [com.github.fcopardo:easyrest:v1.4.2] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\easyrest-v1.4.2.aar\eae32e5cc88f9dcef190a5e8d1b871c5\AndroidManifest.xml:4:5-72
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\core-0.9.6.0.aar\2fc7e48401a8f792ab4bf50c83b8b739\AndroidManifest.xml:8:5-11:75
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\core-0.9.6.0.aar\2fc7e48401a8f792ab4bf50c83b8b739\AndroidManifest.xml:8:5-11:75
+MERGED from [com.mikepenz:aboutlibraries:6.0.6] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\aboutlibraries-6.0.6.aar\c2fae67021169c94b2b59faaa1bc406e\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mikepenz:aboutlibraries:6.0.6] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\aboutlibraries-6.0.6.aar\c2fae67021169c94b2b59faaa1bc406e\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:cardview-v7:27.1.0] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.0.aar\558bff76b407497094dfb5f9bc59a964\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.0] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.0.aar\558bff76b407497094dfb5f9bc59a964\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\bae067ceb7f2f85f9aeab92cf86df1fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\bae067ceb7f2f85f9aeab92cf86df1fc\AndroidManifest.xml:20:5-44
+MERGED from [com.github.jrvansuita:IconHandler:v2.0.0] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\IconHandler-v2.0.0.aar\e8c9ac115cb2d10a73a7ace2be3172b1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.jrvansuita:IconHandler:v2.0.0] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\IconHandler-v2.0.0.aar\e8c9ac115cb2d10a73a7ace2be3172b1\AndroidManifest.xml:7:5-9:41
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\library-1.4.2.aar\a8f1df89a34747380c2032ce3783bf77\AndroidManifest.xml:12:5-14:41
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\library-1.4.2.aar\a8f1df89a34747380c2032ce3783bf77\AndroidManifest.xml:12:5-14:41
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\886027a30d37400f4622fd32bc38a1e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\886027a30d37400f4622fd32bc38a1e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\f03632c4397292eed1532bc0c4939b7b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\f03632c4397292eed1532bc0c4939b7b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\8b2a97cfb26aaebf0a8f30560822c72e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\8b2a97cfb26aaebf0a8f30560822c72e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\ffdab6b1fd80e85ce6d1eb4b3878c63c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\ffdab6b1fd80e85ce6d1eb4b3878c63c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\2d9c30f20b5b50ca7d47a34824c7b5fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\2d9c30f20b5b50ca7d47a34824c7b5fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\bfc887f2567a14dbdb4f47396865eac1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\bfc887f2567a14dbdb4f47396865eac1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\43cacdbfc138e7a83b1d73ff60c4b415\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\43cacdbfc138e7a83b1d73ff60c4b415\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\35df8d423bad622650b85ea63c3965ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\35df8d423bad622650b85ea63c3965ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\4a560f8c9106c912039194c9cafc5ff4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\4a560f8c9106c912039194c9cafc5ff4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\be2ac59373d05d94a01b35a69d9bd0a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\be2ac59373d05d94a01b35a69d9bd0a0\AndroidManifest.xml:20:5-44
+MERGED from [io.reactivex:rxandroid:1.0.1] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\rxandroid-1.0.1.aar\03cd8ce66a60fadd3aa8be98d75fe03b\AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex:rxandroid:1.0.1] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\rxandroid-1.0.1.aar\03cd8ce66a60fadd3aa8be98d75fe03b\AndroidManifest.xml:19:5-43
+MERGED from [com.mikepenz:iconics-core:3.0.2] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\iconics-core-3.0.2.aar\648f52ba156cf2e05ae1c6a7dcb9901d\AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:iconics-core:3.0.2] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\iconics-core-3.0.2.aar\648f52ba156cf2e05ae1c6a7dcb9901d\AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:fastadapter:3.2.4] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\fastadapter-3.2.4.aar\95efa21bf1d6abed6fbb014bbd7a4fbc\AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:fastadapter:3.2.4] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\fastadapter-3.2.4.aar\95efa21bf1d6abed6fbb014bbd7a4fbc\AndroidManifest.xml:8:5-10:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\93a5af320065e288ce40278986234924\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\93a5af320065e288ce40278986234924\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\042096d30d25f8aa7a524412468bd34d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\042096d30d25f8aa7a524412468bd34d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b0c6273878b1b7d81d43b23af47a4a82\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b0c6273878b1b7d81d43b23af47a4a82\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\0d0062ea8f7fe38a6ef90b2e2fcae8df\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\0d0062ea8f7fe38a6ef90b2e2fcae8df\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Dooley\AndroidStudioProjects\Folio.dooley1001\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Dooley\AndroidStudioProjects\Folio.dooley1001\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\core-0.9.6.0.aar\2fc7e48401a8f792ab4bf50c83b8b739\AndroidManifest.xml:11:9-72
+	android:targetSdkVersion
+		INJECTED from C:\Users\Dooley\AndroidStudioProjects\Folio.dooley1001\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Dooley\AndroidStudioProjects\Folio.dooley1001\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Dooley\AndroidStudioProjects\Folio.dooley1001\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Dooley\AndroidStudioProjects\Folio.dooley1001\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Dooley\AndroidStudioProjects\Folio.dooley1001\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Dooley\AndroidStudioProjects\Folio.dooley1001\app\src\main\AndroidManifest.xml
+activity#com.mikepenz.aboutlibraries.ui.LibsActivity
+ADDED from [com.mikepenz:aboutlibraries:6.0.6] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\aboutlibraries-6.0.6.aar\c2fae67021169c94b2b59faaa1bc406e\AndroidManifest.xml:12:9-80
+	android:name
+		ADDED from [com.mikepenz:aboutlibraries:6.0.6] C:\Users\Dooley\.gradle\caches\transforms-1\files-1.1\aboutlibraries-6.0.6.aar\c2fae67021169c94b2b59faaa1bc406e\AndroidManifest.xml:12:19-77

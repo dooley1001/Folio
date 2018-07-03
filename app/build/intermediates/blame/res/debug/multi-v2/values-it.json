@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Dooley\\AndroidStudioProjects\\Folio.dooley1001\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-it\\values-it.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Dooley\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\886027a30d37400f4622fd32bc38a1e2\\res\\values-it\\values-it.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,214,314,423,507,616,741,818,894,975,1081,1189,1287,1391,1496,1603,1766,1866",
+                        "endColumns": "108,99,108,83,108,124,76,75,80,105,107,97,103,104,106,162,99,82",
+                        "endOffsets": "209,309,418,502,611,736,813,889,970,1076,1184,1282,1386,1491,1598,1761,1861,1944"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,30",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,214,314,423,507,616,741,818,894,975,1081,1189,1287,1391,1496,1603,1766,2464",
+                        "endColumns": "108,99,108,83,108,124,76,75,80,105,107,97,103,104,106,162,99,82",
+                        "endOffsets": "209,309,418,502,611,736,813,889,970,1076,1184,1282,1386,1491,1598,1761,1861,2542"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Dooley\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\be2ac59373d05d94a01b35a69d9bd0a0\\res\\values-it\\values-it.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "32",
+                        "startColumns": "4",
+                        "startOffsets": "2599",
+                        "endColumns": "100",
+                        "endOffsets": "2695"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Dooley\\.gradle\\caches\\transforms-1\\files-1.1\\MaterialAbout-0.2.3.aar\\6238cd179640aca6cd65ea716ea37f03\\res\\values-it\\values-it.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,103,143,184,243,301,340,404,456,520,595,653,705,760,808",
+                        "endColumns": "47,39,40,58,57,38,63,51,63,74,57,51,54,47,44",
+                        "endOffsets": "98,138,179,238,296,335,399,451,515,590,648,700,755,803,848"
+                    },
+                    "to": {
+                        "startLines": "19,20,21,22,23,24,25,26,27,28,29,31,33,34,35",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1866,1914,1954,1995,2054,2112,2151,2215,2267,2331,2406,2547,2700,2755,2803",
+                        "endColumns": "47,39,40,58,57,38,63,51,63,74,57,51,54,47,44",
+                        "endOffsets": "1909,1949,1990,2049,2107,2146,2210,2262,2326,2401,2459,2594,2750,2798,2843"
+                    }
+                }
+            ]
+        }
+    ]
+}

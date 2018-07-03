@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Dooley\\AndroidStudioProjects\\Folio.dooley1001\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rCN\\values-zh-rCN.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Dooley\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\886027a30d37400f4622fd32bc38a1e2\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,201,296,396,478,575,681,757,833,911,1007,1103,1198,1295,1390,1488,1637,1731",
+                        "endColumns": "95,94,99,81,96,105,75,75,77,95,95,94,96,94,97,148,93,77",
+                        "endOffsets": "196,291,391,473,570,676,752,828,906,1002,1098,1193,1290,1385,1483,1632,1726,1804"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,30",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,201,296,396,478,575,681,757,833,911,1007,1103,1198,1295,1390,1488,1637,2198",
+                        "endColumns": "95,94,99,81,96,105,75,75,77,95,95,94,96,94,97,148,93,77",
+                        "endOffsets": "196,291,391,473,570,676,752,828,906,1002,1098,1193,1290,1385,1483,1632,1726,2271"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Dooley\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\be2ac59373d05d94a01b35a69d9bd0a0\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "32",
+                        "startColumns": "4",
+                        "startOffsets": "2317",
+                        "endColumns": "100",
+                        "endOffsets": "2413"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Dooley\\.gradle\\caches\\transforms-1\\files-1.1\\MaterialAbout-0.2.3.aar\\6238cd179640aca6cd65ea716ea37f03\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,98,138,179,219,263,299,346,390,431,478,522,563,607,649",
+                        "endColumns": "42,39,40,39,43,35,46,43,40,46,43,40,43,41,43",
+                        "endOffsets": "93,133,174,214,258,294,341,385,426,473,517,558,602,644,688"
+                    },
+                    "to": {
+                        "startLines": "19,20,21,22,23,24,25,26,27,28,29,31,33,34,35",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1731,1774,1814,1855,1895,1939,1975,2022,2066,2107,2154,2276,2418,2462,2504",
+                        "endColumns": "42,39,40,39,43,35,46,43,40,46,43,40,43,41,43",
+                        "endOffsets": "1769,1809,1850,1890,1934,1970,2017,2061,2102,2149,2193,2312,2457,2499,2543"
+                    }
+                }
+            ]
+        }
+    ]
+}

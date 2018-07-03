@@ -1,0 +1,149 @@
+<resources>
+
+    <string name="app_name">Folio</string>
+    <string name="price_format">Price: &#36; %1$.2f</string>
+    <string name="unrounded_price_format">Price: &#36; %1$s</string>
+    <string name="unrounded_usd_chart_price_format">&#36; %1$s</string>
+    <string name="mkt_cap_format">MarketCap: &#36; %1$,.2f</string>
+    <string name="volume_format">Volume 24h: &#36; %1$,.2f</string>
+    <string name="negative_variable_pct_change_with_dollars_format">%1$s Change: %2$.2f%% &#40;&#45;&#36;%3$.2f&#41;</string>
+    <string name="positive_variable_pct_change_with_dollars_format">%1$s Change: &#43;%2$.2f%% &#40;&#43;&#36;%3$.2f&#41;</string>
+    <string name="negative_variable_pct_change_without_dollars_format">%1$s Change: %2$.2f%%</string>
+    <string name="positive_variable_pct_change_without_dollars_format">%1$s Change: &#43;%2$.2f%%</string>
+    <string name="appName">Folio</string>
+
+    <string name="negative_pct_change_format">%1$s: %2$.2f%%</string>
+    <string name="positive_pct_change_format">%1$s: &#43;%2$.2f%%</string>
+    <string name="not_available_pct_change_text_with_time">%1$s: N/A</string>
+
+    <string name="negative_pct_change_with_dollars_format">%1$.2f%% &#40;&#45;&#36;%2$.2f&#41;</string>
+    <string name="positive_pct_change_with_dollars_format">&#43;%1$.2f%% &#40;&#43;&#36;%2$.2f&#41;</string>
+
+    <string name="negative_pct_format">%1$.2f%%</string>
+    <string name="positive_pct_format">&#43;%1$.2f%%</string>
+    <string name="Home">Home</string>
+    <string name="CoinImage">Coin Image</string>
+    <string name="AddCurrency">Add Currency</string>
+    <string name="Favorite">Favorite</string>
+    <string name="Refresh">Refresh</string>
+    <string name="oneDay">24h</string>
+    <string name="threeDay">3d</string>
+    <string name="Week">7d</string>
+    <string name="Month">1m</string>
+    <string name="threeMonth">3m</string>
+    <string name="Year">1y</string>
+    <string name="All">All</string>
+    <string name="AllTime">All Time</string>
+    <string name="action_search">Search</string>
+    <string name="action_sort">Sort</string>
+    <string name="portfolio_icon">Port Icon</string>
+    <string name="action_internet">Browser</string>
+    <string name="sort_by">Sort list in order of...</string>
+    <string name="noChartDataString">No Chart Data Available, Please check your connection</string>
+    <string name="noMarketsString">No Markets Data Available, Please check your connection </string>
+    <string name="notAvailableStringResource">N/A</string>
+    <string name="nameAndSymbol">%1$s (%2$s)</string>
+    <string name="volume24h">Precentage Change: </string>
+    <string name="marketsTabPrice">Price: </string>
+    <string name="marketPriceTv">Price </string>
+    <string name="cmcHyperlink">CoinMarketCap</string>
+
+
+    <string name="basic_currency_format">%1$s %2$s</string>
+
+    <string name="rounded_btc_format_no_space">\u0E3F%1$,.4f</string>
+    <string name="rounded_btc_format">\u0E3F %1$,.4f</string>
+    <string name="usd_format_no_space">&#36;%1$,.2f</string>
+
+    <string name="btc_format">\u0E3F %1$s</string>
+    <string name="eth_format">\u039e %1$s</string>
+    <string name="ltc_format">\u0141 %1$s</string>
+
+    <!--AIC, USDT, NZD, CAD, CLP, COP, HKD, MXN, TTD, XCD, ARS-->
+    <string name="usd_format">&#36; %1$,.2f</string>
+    <!--Australian Dollar-->
+    <string name="aud_format">\u0041\u0024 %1$,.2f</string>
+    <!--brazilian real-->
+    <string name="brl_format">\u0052\u0024 %1$,.2f</string>
+    <!--Bahamian Dollar-->
+    <string name="bsd_format">\u0042\u0024 %1$,.2f</string>
+    <!--swiss franc-->
+    <string name="chf_format">\u0043\u0048\u0046 %1$,.2f</string>
+    <!--Chinese Yuan Renminbi-->
+    <string name="cny_format">\u00a5 %1$,.2f</string>
+    <!--Czech Koruna-->
+    <string name="czk_format">\u004b\u010d %1$,.2f</string>
+    <!--Danish Krone-->
+    <string name="dkk_format">\u006b\u0072 %1$,.2f</string>
+    <!--Euro-->
+    <string name="euro_format">\u20AC %1$,.2f</string>
+    <!--Fiji Dollar-->
+    <string name="fjd_format">\u0046\u004a\u0024 %1$,.2f</string>
+    <!--british pound-->
+    <string name="gbp_format">\u00a3 %1$,.2f</string>
+    <!--Ghanaian New Cedi-->
+    <string name="ghs_format">\u0047\u0048\u20b5 %1$,.2f</string>
+    <!--Guatemalan Quetzal-->
+    <string name="gtq_format">\u0051 %1$,.2f</string>
+    <!--Honduran Lempira-->
+    <string name="hnl_format">\u004c %1$,.2f</string>
+    <!--Croatian Kuna-->
+    <string name="hrk_format">\u006b\u006e %1$,.2f</string>
+    <!--Hungarian Forint-->
+    <string name="huf_format">\u0046\u0074 %1$,.2f</string>
+    <!--Indonesian Rupiah-->
+    <string name="idr_format">\u0052\u0070 %1$,.2f</string>
+    <!--Israeli New Shekel-->
+    <string name="ils_format">\u20aa %1$,.2f</string>
+    <!--Indian Rupee-->
+    <string name="inr_format">\u20b9 %1$,.2f</string>
+    <!--Iceland Krona, NOK, SEK-->
+    <string name="isk_format">\u006b\u0072 %1$,.2f</string>
+    <!--Jamaican Dollar-->
+    <string name="jmd_format">\u004a\u0024 %1$,.2f</string>
+    <!--Japanese Yen-->
+    <string name="jpy_format">\u00A5  %1$,.2f</string>
+    <!--South-Korean Won-->
+    <string name="krw_format">\u20A9  %1$,.2f</string>
+    <!--Sri Lanka Rupee, PKR-->
+    <string name="lkr_format">\u20a8 %1$,.2f</string>
+    <!--Myanmar Kyat-->
+    <string name="mmk_format">\u004b %1$,.2f</string>
+    <!--Malaysian Ringgit-->
+    <string name="myr_format">\u0052\u004d %1$,.2f</string>
+    <!--Panamanian Balboa-->
+    <string name="pab_format">\u0042\u002f\u002e %1$,.2f</string>
+    <!--Peruvian Nuevo Sol-->
+    <string name="pen_format">\u0053\u002f\u002e %1$,.2f</string>
+    <!--Philippine Peso-->
+    <string name="php_format">\u20b1 %1$,.2f</string>
+    <!--Polish Zloty-->
+    <string name="pln_format">\u007a\u0142 %1$,.2f</string>
+    <!--Romanian New Lei-->
+    <string name="ron_format">\u006c\u0065\u0069 %1$,.2f</string>
+    <!--Serbian Dinar-->
+    <string name="rsd_format">\u0052\u0053\u0044 %1$,.2f</string>
+    <!--Russian Rouble-->
+    <string name="rub_format">\u0440\u0443\u0431 %1$,.2f</string>
+    <!--Singapore Dollar-->
+    <string name="sgd_format">\u0053\u0024 %1$,.2f</string>
+    <!--Thai Baht-->
+    <string name="thb_format">\u0e3f %1$,.2f</string>
+    <!--Turkish Lira-->
+    <string name="try_format">\u0054\u004c %1$,.2f</string>
+    <!--Taiwan Dollar-->
+    <string name="twd_format">\u004e\u0054\u0024 %1$,.2f</string>
+    <!--Venezuelan Bolivar Fuerte-->
+    <string name="vef_format">\u0042\u0073 %1$,.2f</string>
+    <!--vietnamese DONG-->
+    <string name="vnd_format">\u20AB %1$,.2f</string>
+    <!--CFA Franc BEAC-->
+    <string name="xaf_format">\u0046\u0043\u0046\u0041 %1$,.2f</string>
+    <!--CFP Franc-->
+    <string name="xpf_format">\u0046 %1$,.2f</string>
+    <!--South African Rand-->
+    <string name="zar_format">\u0052 %1$,.2f</string>
+    <!--Nigerian Naira-->
+    <string name="ngn_format">\u0052 %1$,.2f</string>
+
+</resources>

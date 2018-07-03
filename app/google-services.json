@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "322851720009",
+    "firebase_url": "https://folio-72904.firebaseio.com",
+    "project_id": "folio-72904",
+    "storage_bucket": "folio-72904.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322851720009:android:5a9e8b8d287ab25e",
+        "android_client_info": {
+          "package_name": "Folio.dooley1001"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322851720009-1kbqcji3ohpb59lst12tq7lp9nh0aiic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAscGb75CAcao3uPBpm3cDtY0_h4OtOy4o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

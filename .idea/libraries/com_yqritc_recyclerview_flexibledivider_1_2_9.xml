@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.yqritc:recyclerview-flexibledivider-1.2.9">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/recyclerview-flexibledivider-1.2.9.aar/7bee1757817d6ba7fd7adf3562a9c844/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/recyclerview-flexibledivider-1.2.9.aar/7bee1757817d6ba7fd7adf3562a9c844/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yqritc/recyclerview-flexibledivider/1.2.9/79bf5d82e8f113e10f915b9596420501b217351/recyclerview-flexibledivider-1.2.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

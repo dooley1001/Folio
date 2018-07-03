@@ -1,0 +1,29 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.folio.dooley1001.folio.Main.cryptoListTabsActivity">
+
+    <!-- Search icon on coinList page-->
+    <item
+        android:id="@+id/action_search"
+        android:checkable="true"
+        android:icon="@drawable/ic_search_icon_cyan_24dp"
+        android:title="@string/action_search"
+        android:visible="true"
+        app:actionViewClass="android.support.v7.widget.SearchView"
+        app:showAsAction="always" />
+
+    <!-- sort icon on coinList page-->
+    <item android:id="@+id/sort_button"
+        android:title="@string/action_sort"
+        android:icon="@drawable/ic_sort_button_cyan_24dp"
+        app:showAsAction="always"/>
+
+    <!-- Portfolio icon -->
+    <item android:id="@+id/portfolio_icon"
+        android:title="@string/portfolio_icon"
+        android:icon="@drawable/ic_attach_money_portfolio_icon_24dp"
+        app:showAsAction="always"/>
+
+
+</menu>

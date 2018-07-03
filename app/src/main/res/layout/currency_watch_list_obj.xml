@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:focusable="true"
+    android:background="@drawable/button_ripple_effect"
+    android:paddingEnd="4dp"
+    android:paddingStart="4dp"
+    android:paddingTop="4dp"
+    android:paddingBottom="4dp"
+    android:clickable="true">
+
+    <TextView
+        android:id="@+id/currencyListfullNameTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/rankTextViewWatchlist"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <TextView
+        android:id="@+id/currencyListCurrPriceTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="4dp"
+        app:layout_constraintStart_toEndOf="@+id/rankTextViewWatchlist"
+        app:layout_constraintTop_toBottomOf="@+id/currencyListfullNameTextView" />
+
+    <ImageView
+        android:id="@+id/currencyListCoinImageView"
+        android:layout_width="25dp"
+        android:layout_height="26dp"
+        android:layout_marginEnd="16dp"
+        android:contentDescription="@string/CoinImage"
+        app:layout_constraintEnd_toStartOf="@+id/currencyListfullNameTextView"
+        tools:layout_editor_absoluteY="21dp" />
+
+    <TextView
+        android:id="@+id/currencyListVolumeTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="4dp"
+        app:layout_constraintStart_toEndOf="@+id/rankTextViewWatchlist"
+        app:layout_constraintTop_toBottomOf="@+id/currencyListMarketcapTextView" />
+
+    <TextView
+        android:id="@+id/currencyListMarketcapTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="4dp"
+        app:layout_constraintStart_toEndOf="@+id/rankTextViewWatchlist"
+        app:layout_constraintTop_toBottomOf="@+id/currencyListCurrPriceTextView" />
+
+    <ImageView
+        android:id="@+id/favsCurrencyListTrashImage"
+        android:layout_width="41dp"
+        android:layout_height="38dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/outline_delete_forever_black_24dp"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:textOff=""
+        android:textOn=""
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/oneHourChangeTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="4dp"
+        app:layout_constraintStart_toEndOf="@+id/rankTextViewWatchlist"
+        app:layout_constraintTop_toBottomOf="@+id/currencyListVolumeTextView" />
+
+    <TextView
+        android:id="@+id/dayChangeTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="4dp"
+        app:layout_constraintEnd_toStartOf="@+id/weekChangeTextView"
+        app:layout_constraintStart_toEndOf="@+id/oneHourChangeTextView"
+        app:layout_constraintTop_toBottomOf="@+id/currencyListVolumeTextView" />
+
+    <TextView
+        android:id="@+id/weekChangeTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginTop="4dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/currencyListVolumeTextView" />
+
+    <TextView
+        android:id="@+id/rankTextViewWatchlist"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</android.support.constraint.ConstraintLayout>

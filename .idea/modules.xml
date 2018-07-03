@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:\Users\sarah\AndroidStudioProjects\Project\CryptoBuddy.iml" filepath="C:\Users\sarah\AndroidStudioProjects\Project\CryptoBuddy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Folio.dooley1001.iml" filepath="$PROJECT_DIR$/.idea/Folio.dooley1001.iml" />
+      <module fileurl="file://C:\Users\Dooley\AndroidStudioProjects\Folio.dooley1001\Project.iml" filepath="C:\Users\Dooley\AndroidStudioProjects\Folio.dooley1001\Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="chart_spinner_options">
+        <item>USD</item>
+        <item>BTC</item>
+    </string-array>
+
+<!-- these are our options for sorting -->
+
+    <string-array name="sort_options">
+        <item>Name A-Z</item>
+        <item>Market Cap</item>
+        <item>Price</item>
+        <item>24hr Volume</item>
+        <item>1hr Change</item>
+        <item>24hr Change</item>
+        <item>Weekly Change</item>
+
+    </string-array>
+
+</resources>

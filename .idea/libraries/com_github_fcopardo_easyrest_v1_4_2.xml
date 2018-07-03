@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.github.fcopardo:easyrest-v1.4.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/easyrest-v1.4.2.aar/eae32e5cc88f9dcef190a5e8d1b871c5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/easyrest-v1.4.2.aar/eae32e5cc88f9dcef190a5e8d1b871c5/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
